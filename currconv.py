@@ -1,7 +1,7 @@
 from requests import get
 from pprint import PrettyPrinter
 
-
+# this program contains 2 APIs
 API_KEY_curr = '22ad9672d907de1cef43cb81'
 API_KEY_crypto = 'da8bd4f8534c75274f3ac30816933658'
 BASE_URL_curr = "https://v6.exchangerate-api.com/"
